@@ -29,6 +29,8 @@ Data yang discrape meliputi:
 - Tahun
 - Genre
 
+sebanyak 2295 baris data
+
 ---
 
 ## Data Cleaning
